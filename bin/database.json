@@ -1,0 +1,300 @@
+{
+  "Workers": [
+    {
+      "CV": [
+        {
+          "_IsHadHonorDiploma": false,
+          "StartWorkTime": "2023-09-30T12:07:41.3343637+04:00",
+          "School": "THL",
+          "Linkedin": "designYourLife",
+          "GitLink": "mydesign.com",
+          "ForeignLanguage": "English, Adobe",
+          "WorkedCompanies": "Amazon",
+          "Skills": "You can't see my hands when i writing",
+          "AcceptScore": "699",
+          "EndWorkTime": "2027-09-30T12:07:41.3358443+04:00",
+          "Speciality": "Designer",
+          "City": "Baku",
+          "Identifier": 1
+        }
+      ],
+      "aboutAnnouncement": [],
+      "JobOffers": [],
+      "acceptedAnnouncementID": [],
+      "Phone": "999333222",
+      "City": "New York",
+      "Password": "1322732489",
+      "UserName": "t",
+      "Name": "Jessy",
+      "Surname": "Yessy",
+      "Age": "23",
+      "Identifier": 2
+    },
+    {
+      "CV": [
+        {
+          "_IsHadHonorDiploma": false,
+          "StartWorkTime": "2023-09-30T12:07:41.3767341+04:00",
+          "School": "no where",
+          "Linkedin": "mypunch",
+          "GitLink": "whereAreYou.hit",
+          "ForeignLanguage": "English",
+          "WorkedCompanies": "World Champion of Boxing on HeavyWeight",
+          "Skills": "i love punching",
+          "AcceptScore": "111",
+          "EndWorkTime": "2033-09-30T12:07:41.3767352+04:00",
+          "Speciality": "Boxer",
+          "City": "Everywhere",
+          "Identifier": 3
+        }
+      ],
+      "aboutAnnouncement": [],
+      "JobOffers": [],
+      "acceptedAnnouncementID": [],
+      "Phone": "9875462",
+      "City": "Las Vegas",
+      "Password": "1503182870",
+      "UserName": "Mike",
+      "Name": "Mike",
+      "Surname": "Tyson",
+      "Age": "27",
+      "Identifier": 4
+    },
+    {
+      "CV": [
+        {
+          "_IsHadHonorDiploma": false,
+          "StartWorkTime": "2023-09-30T12:07:41.3767481+04:00",
+          "School": "Dallas",
+          "Linkedin": "notorious",
+          "GitLink": "notorious.championn",
+          "ForeignLanguage": "English, Russian",
+          "WorkedCompanies": "UFC champion on two Weights",
+          "Skills": "essalam aleykum",
+          "AcceptScore": "333",
+          "EndWorkTime": "2031-09-30T12:07:41.3767481+04:00",
+          "Speciality": "UFC",
+          "City": "Ireland",
+          "Identifier": 5
+        }
+      ],
+      "aboutAnnouncement": [],
+      "JobOffers": [],
+      "acceptedAnnouncementID": [],
+      "Phone": "1111111",
+      "City": "Ireland",
+      "Password": "962693207",
+      "UserName": "Conor",
+      "Name": "Conor",
+      "Surname": "McGregor",
+      "Age": "30",
+      "Identifier": 6
+    },
+    {
+      "CV": [
+        {
+          "_IsHadHonorDiploma": false,
+          "StartWorkTime": "2023-09-30T12:07:41.3767516+04:00",
+          "School": "California",
+          "Linkedin": "i love  helping people",
+          "GitLink": "bosluq",
+          "ForeignLanguage": "English, Italian, Spanish",
+          "WorkedCompanies": "Has changed many lives",
+          "Skills": "change your body change your life",
+          "AcceptScore": "700",
+          "EndWorkTime": "2043-09-30T12:07:41.3767517+04:00",
+          "Speciality": "Life Coach",
+          "City": "California",
+          "Identifier": 7
+        }
+      ],
+      "aboutAnnouncement": [],
+      "JobOffers": [],
+      "acceptedAnnouncementID": [],
+      "Phone": "8888888",
+      "City": "California",
+      "Password": "-463829766",
+      "UserName": "LifeChanger",
+      "Name": "Anthony",
+      "Surname": "Robbins",
+      "Age": "60",
+      "Identifier": 8
+    },
+    {
+      "CV": [],
+      "aboutAnnouncement": [],
+      "JobOffers": [],
+      "acceptedAnnouncementID": [],
+      "Phone": "0507030830",
+      "City": "Baku",
+      "Password": "243977598",
+      "UserName": "ayxan",
+      "Name": "ayxan",
+      "Surname": "ibrahimov",
+      "Age": "19",
+      "Identifier": 22
+    }
+  ],
+  "Employers": [
+    {
+      "Announcements": [
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3774563+04:00",
+          "EndTime": "2023-10-30T12:07:41.3774569+04:00",
+          "PayCheck": "9999",
+          "ExperienceYear": "5",
+          "Description": "Hi , We need a Programmer",
+          "Speciality": "Programmer",
+          "City": "Baku",
+          "Identifier": 9
+        },
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3776435+04:00",
+          "EndTime": "2023-10-30T12:07:41.3776437+04:00",
+          "PayCheck": "10000",
+          "ExperienceYear": "7",
+          "Description": "Qaqa men proqramistem deyen oglan lazimdi",
+          "Speciality": "IT",
+          "City": "New-York",
+          "Identifier": 10
+        },
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3776466+04:00",
+          "EndTime": "2023-10-30T12:07:41.3776466+04:00",
+          "PayCheck": "10000",
+          "ExperienceYear": "8",
+          "Description": "Hello World yazan qaqas lazimdi",
+          "Speciality": "Software Engineer",
+          "City": "London",
+          "Identifier": 11
+        }
+      ],
+      "notesFromJobOffers": [],
+      "Phone": "9999999",
+      "City": "Sumqayit",
+      "Password": "-428050543",
+      "UserName": "Amin",
+      "Name": "Ibrahimov",
+      "Surname": "bekarciliq",
+      "Age": "18",
+      "Identifier": 12
+    },
+    {
+      "Announcements": [
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3778456+04:00",
+          "EndTime": "2023-10-30T12:07:41.3778459+04:00",
+          "PayCheck": "100000",
+          "ExperienceYear": "10",
+          "Description": "We want ",
+          "Speciality": "Software Engineer",
+          "City": "London",
+          "Identifier": 13
+        },
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3778488+04:00",
+          "EndTime": "2023-10-30T12:07:41.3778488+04:00",
+          "PayCheck": "5000",
+          "ExperienceYear": "6",
+          "Description": "Do calculations right",
+          "Speciality": "Economist",
+          "City": "Baku",
+          "Identifier": 14
+        },
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3778495+04:00",
+          "EndTime": "2023-10-30T12:07:41.3778496+04:00",
+          "PayCheck": "30000",
+          "ExperienceYear": "8",
+          "Description": "Controlling restaurant",
+          "Speciality": "Administrator",
+          "City": "New-York",
+          "Identifier": 15
+        }
+      ],
+      "notesFromJobOffers": [],
+      "Phone": "8888888",
+      "City": "Sabran",
+      "Password": "-192705142",
+      "UserName": "Maqa",
+      "Name": "Liliput",
+      "Surname": "bosluqdu",
+      "Age": "19",
+      "Identifier": 16
+    },
+    {
+      "Announcements": [
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3779488+04:00",
+          "EndTime": "2023-10-30T12:07:41.3779489+04:00",
+          "PayCheck": "20000",
+          "ExperienceYear": "10",
+          "Description": "You protect one of the famous actor",
+          "Speciality": "BodyGuard",
+          "City": "Roma",
+          "Identifier": 17
+        },
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3779508+04:00",
+          "EndTime": "2023-10-30T12:07:41.3779509+04:00",
+          "PayCheck": "5000",
+          "ExperienceYear": "5",
+          "Description": "Touch people's lives",
+          "Speciality": "Life Coach",
+          "City": "Azerbaijan",
+          "Identifier": 18
+        },
+        {
+          "viewedWorkerUserNames": [],
+          "appliedWorkersCV": [],
+          "PublishTime": "2023-09-30T12:07:41.3779517+04:00",
+          "EndTime": "2023-10-30T12:07:41.3779518+04:00",
+          "PayCheck": "1000",
+          "ExperienceYear": "2",
+          "Description": "All we need patience",
+          "Speciality": "Baby sitter",
+          "City": "Brazilia",
+          "Identifier": 19
+        }
+      ],
+      "notesFromJobOffers": [],
+      "Phone": "7777777",
+      "City": "Las Vegas",
+      "Password": "1117557198",
+      "UserName": "PasterRaper",
+      "Name": "Paster",
+      "Surname": "MenNeBilim",
+      "Age": "25",
+      "Identifier": 20
+    },
+    {
+      "Announcements": [],
+      "notesFromJobOffers": [],
+      "Phone": "0513488788",
+      "City": "Baku",
+      "Password": "243977598",
+      "UserName": "amin",
+      "Name": "amin",
+      "Surname": "ibrahimov",
+      "Age": "18",
+      "Identifier": 21
+    }
+  ],
+  "DatabaseCurrentID": 20
+}

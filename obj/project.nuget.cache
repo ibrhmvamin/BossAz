@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rc58HkaUGu+EaXkP/4MXsJTlTUeU4pCI8QElO3tQ0gKoaQx9XMfYFh/qHg+BnrCx8oowBvIsnjM60Bgh7Jdjag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Boss.AzFinalProject\\Boss.AzFinalProject\\Boss.AzFinalProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

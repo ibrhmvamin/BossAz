@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.AssemblyInfo.cs
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\bin\Debug\net6.0\Boss.AzFinalProject.exe
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\bin\Debug\net6.0\Boss.AzFinalProject.deps.json
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\bin\Debug\net6.0\Boss.AzFinalProject.runtimeconfig.json
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\bin\Debug\net6.0\Boss.AzFinalProject.dll
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\bin\Debug\net6.0\Boss.AzFinalProject.pdb
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.csproj.CopyComplete
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.dll
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\refint\Boss.AzFinalProject.dll
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.pdb
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\Boss.AzFinalProject.genruntimeconfig.cache
+C:\Users\User\source\repos\Boss.AzFinalProject\Boss.AzFinalProject\obj\Debug\net6.0\ref\Boss.AzFinalProject.dll

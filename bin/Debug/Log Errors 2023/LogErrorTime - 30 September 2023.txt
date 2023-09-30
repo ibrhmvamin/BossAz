@@ -1,0 +1,6 @@
+String '12/21/2013' was not recognized as a valid DateTime. => Worker: ayxan ibrahimov, Time  10:3
+
+Data contains only integers => Worker: ayxan ibrahimov, Time  10:4
+
+There is no ID 26 CV exists in your portfolio. => Worker: ayxan ibrahimov, Time  10:5
+
